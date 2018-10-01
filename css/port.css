@@ -35,7 +35,7 @@ a{
 	top:40%;
 	left:50%;
 	transform:translate(-50%,-50%);
-	font-size: 100px;
+	font-size: 3rem;
 }
 .bars{
 	width: 30px;
@@ -74,7 +74,7 @@ a{
 }
 .tabs1{
     color: #0060B6;
-    font-size:3em;
+    font-size:1.6em;
     text-decoration: none;
     transition-property: color , font-size;
   	transition-duration: 0.2s;
@@ -86,7 +86,7 @@ a{
 .tabs1:hover 
 {
      color:#00004d; 
-     font-size: 3.1em;      
+     font-size: 2.4em;      
 }
 .tabs2{
     color: #0060B6;
@@ -167,20 +167,23 @@ a{
 }
 .about{
 	margin: 0 2vw;
+	font-size: 0.6em;
 }
 .meet{
 	margin: 10px 2vw;
+	font-size: 0.6em;
 }
 .t{
 	text-align: center;
 	font-family: 'Engagement', cursive;
-	font-size: 50px;
+	font-size: 1.5em;
 }
 .footer{
 	text-align: center;
 	padding: 10px;
 	background-color: #00091a;
 	color: white;
+	font-size: 0.8em;
 }
 .logo{
 	margin:5px;
@@ -200,6 +203,7 @@ a{
 .skill { 
   display: block;
   margin-bottom: 20px;
+  font-size: 0.8em;
 }
 
 .skill .bar {
@@ -220,7 +224,7 @@ a{
   height: 100%;
   text-align: center;
   font-weight: bold;
-  font-size: 1.1em;
+  font-size: 0.8em;
   color: #414141;
   text-shadow: 1px 1px 0 rgba(255,255,255,0.55);
   border-radius: 4px;
